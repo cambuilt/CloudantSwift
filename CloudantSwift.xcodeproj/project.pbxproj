@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		189B8C401C864F6C0015D7D3 /* Cloudant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cloudant.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		189B8C391C864F640015D7D3 = {
 			isa = PBXGroup;
 			children = (
+				189B8C401C864F6C0015D7D3 /* Cloudant.swift */,
 			);
 			sourceTree = "<group>";
 		};
